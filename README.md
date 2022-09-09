@@ -13,3 +13,12 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 > - [Xmind, Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
 > - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 > - Github
+# Tech skills
+> - SQL
+> - DevTools
+> - SCRUM
+> - Software testing
+> - Creating test cases
+> - Reporting bugs
+> - Finding uniqe CSS Selectors and xPaths
+> - Creating diagrams and decision tables
