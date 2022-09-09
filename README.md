@@ -22,3 +22,20 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 > - Reporting bugs
 > - Finding uniqe CSS Selectors and xPaths
 > - Creating diagrams and decision tables
+# Certificates
+# Courses
+> - [Coders Lab](https://coderslab.pl/pl/tester-manualny) 
+# Books
+> - Certyfikowany tester ISTQB Adam Roman, Lucjan Stapp
+# Groups on Facebook
+> - Tester oprogramowania - wsparcie na starcie
+> - Testowanie oprogramowania
+> - Girls Who Tests
+> - Gildia Testerów
+# Recommended blogs
+> - testerzy.pl
+> - testuj.pl - Test, Bugs & Rock'n'Roll
+> - remigiuszbednarczyk.pl
+> - pwicherski.gitbook.io
+> - GeekON
+# Webinars
