@@ -27,6 +27,7 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 > - [Coders Lab](https://coderslab.pl/pl/tester-manualny) 
 # Books
 > - Certyfikowany tester ISTQB Adam Roman, Lucjan Stapp
+> - Testowanie oprogramowania. Podręcznik dla początkujących Rafał Pawlak
 # Groups on Facebook
 > - Tester oprogramowania - wsparcie na starcie
 > - Testowanie oprogramowania
