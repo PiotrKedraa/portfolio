@@ -25,6 +25,7 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 # Certificates
 # Courses
 > - [Coders Lab](https://coderslab.pl/pl/tester-manualny) 
+> - [WEBINAR TESTING REST API FOR BEGGINERS](https://www.youtube.com/watch?v=G2S82goFZaU&ab_channel=Testerprogramuje) 
 # Books
 > - Certyfikowany tester ISTQB Adam Roman, Lucjan Stapp
 > - Testowanie oprogramowania. Podręcznik dla początkujących Rafał Pawlak
