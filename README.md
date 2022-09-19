@@ -1,5 +1,5 @@
-# portfolio
-My Tester's Portfolio
+# Portfolio
+
 # About me
 Hello my name is Piotr. I graduated from Economic University in Opole. Last five years I was working in various companies. Three years at Polaris factory, on assembly line and two years at Velux facotry as machine operator. The common denominator of both companies was quality. It taught me to take care of details and respect the manufactured product. Working in a factory has ceased to satisfy me. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches. 
 # Tools
