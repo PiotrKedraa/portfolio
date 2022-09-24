@@ -23,6 +23,7 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 > - Finding uniqe CSS Selectors and xPaths
 > - Creating diagrams and decision tables
 # Certificates
+> - Certyfikat ISTQB Foundation Level
 # Courses
 > - [Coders Lab](https://coderslab.pl/pl/tester-manualny) 
 # Books
@@ -41,3 +42,7 @@ Hello my name is Piotr. I graduated from Economic University in Opole. Last five
 > - GeekON
 # Webinars
 > - [WEBINAR TESTING REST API FOR BEGGINERS](https://www.youtube.com/watch?v=G2S82goFZaU&ab_channel=Testerprogramuje) Bartek Kita
+> - [Od junior testera do eksperta, czyli jak się przebranżowić i odnieść sukces. Pytania i odpowiedzi](https://www.youtube.com/watch?v=XG78lSTlxRw&ab_channel=testerzy.pl) testerzy.pl
+> [JPro Webinar: Testowanie w zespołach zwinnych](https://www.youtube.com/watch?v=Gq-gRoPV3yM&feature=emb_title&ab_channel=JCommerce) JCommerce
+> 
+
